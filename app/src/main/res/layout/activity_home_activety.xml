@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/WelcomeActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:id="@+id/txtWelcome"
+        android:text="Welcome our App"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mail :"
+        android:textSize="18dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/txtemail"
+        android:background="#2196F3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="passwoard : "
+        android:textSize="18dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/txtpassword"
+        android:background="#2196F3"/>
+</LinearLayout>

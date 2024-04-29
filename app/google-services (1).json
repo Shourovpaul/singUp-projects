@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273180771755",
+    "project_id": "signup-signing-projects-real",
+    "storage_bucket": "signup-signing-projects-real.apps pot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273180771755:android:71fed3abbe92e9144bee",
+        "android_client_info": {
+          "package_name": "com.example.signupupsigninprojects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-w6FPpeAjs6Z-b-Tb-ILYSE1VJh_s4Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
